@@ -1,6 +1,6 @@
 <div align="center">
 
- # Hello everyone! ✌😁
+ # Hello everyone! ✌😅
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bnohandz&show_icons=true&theme=cobalt)
  
