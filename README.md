@@ -2,7 +2,7 @@
 
  # Hello everyone! ✌😁
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bnohandz&show_icons=true&theme=cobalt)
+ ![bnohandz's GitHub stats](https://github-readme-stats.vercel.app/api?username=bnohandz&show_icons=true&theme=cobalt)
  
  <div>
   <img align="center" alt="bno-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
