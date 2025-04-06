@@ -9,7 +9,7 @@
 ##### 👨‍🎓 Estudante de Ciência da Computação  
 ##### 💡 Apaixonado por tecnologia, música e desenvolvimento  
 ##### 🚀 Explorando Front-end, JavaScript e Python  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnohandz&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnohandz&layout=compact&theme=nightowl" />
 
   </td>
   <td align="center">
