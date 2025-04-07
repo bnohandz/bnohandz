@@ -27,7 +27,7 @@
 </table>
 
   <div align="center"> 
-    <a href="https://discord.com/channels/@appa4782" target="_blank"><img src="https://github.com/user-attachments/assets/0a811abb-8ca2-4f68-b6ad-61c1280b9ce0" height="30"</a><a href="https://www.linkedin.com/in/brunofrnnds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="mailto:bnohunt@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https://instagram.com/bnohandz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><a href="https://steamcommunity.com/id/BNOHunt/" target="_blank"><img src="https://github.com/user-attachments/assets/df84ce5d-73eb-4045-8868-324688865b9a" height="30"></a>
+    <a href="https://discord.com" target="_blank"><img src="https://github.com/user-attachments/assets/0a811abb-8ca2-4f68-b6ad-61c1280b9ce0" height="30"</a><a href="https://www.linkedin.com/in/brunofrnnds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="mailto:bnohunt@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https://instagram.com/bnohandz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><a href="https://steamcommunity.com/id/BNOHunt/" target="_blank"><img src="https://github.com/user-attachments/assets/df84ce5d-73eb-4045-8868-324688865b9a" height="30"></a>
 
 
   </div>
