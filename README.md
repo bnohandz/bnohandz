@@ -5,10 +5,10 @@
 <tr>
   <td>
 
-##### 🧑‍💻 Analista de Suporte Técnico  
-##### 👨‍🎓 Estudante de Ciência da Computação  
-##### 💡 Apaixonado por tecnologia, música e desenvolvimento  
-##### 🚀 Explorando Front-end, JavaScript e Python  
+##### 💻 Analista de Suporte Técnico  
+##### 📚 Ciência da Computação  
+##### 🧩 Apaixonado por música e tecnologia  
+##### 🚀 Explorando Front-end, Java e Python  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnohandz&layout=compact&theme=nightowl" />
 
   </td>
