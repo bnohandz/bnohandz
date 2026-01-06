@@ -9,7 +9,6 @@
 ##### 📚 Ciência da Computação  
 ##### 🧩 Apaixonado por música e tecnologia  
 ##### 🚀 Explorando Front-end, Java e Python  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnohandz&layout=compact&theme=nightowl" />
 
   </td>
   <td align="center">
