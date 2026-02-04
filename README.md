@@ -5,7 +5,7 @@
 <tr>
   <td>
 
-##### 💻 Analista de Suporte Técnico  
+##### 💻 IT Support & Infrastructure Analyst 
 ##### 📚 Ciência da Computação  
 ##### 🧩 Apaixonado por música e tecnologia  
 ##### 🚀 Explorando Front-end, Java e Python  
