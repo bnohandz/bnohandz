@@ -1,4 +1,8 @@
-## Welcome to my profile! ✌️😁
+<div align=center>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&pause=1000&color=42F7DD&background=0F11FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!+%E2%9C%8C%EF%B8%8F%F0%9F%98%81)](https://git.io/typing-svg)
+
+</div>
 <div align=center>
 
 <table>
