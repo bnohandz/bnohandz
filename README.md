@@ -1,7 +1,7 @@
 <div align=center>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&pause=1000&color=42F7DD&background=0F11FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!+%E2%9C%8C%EF%B8%8F%F0%9F%98%81)](https://git.io/typing-svg)
-
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&pause=1000&color=298EBB&center=true&vCenter=true&width=435&separator=%3C&lines=Welcome+to+my+profile!+%E2%9C%8C%EF%B8%8F%F0%9F%98%81%3Cconsole.log(%22Hello+World%22);+%F0%9F%92%BB%3Cgit+commit+-m+%22Never+stop+learning%22+%F0%9F%94%A5%3Cnpm+run+build+%F0%9F%9A%80%3CDeploying+my+future%E2%9A%A1)](https://git.io/typing-svg)
+  
 </div>
 <div align=center>
 
