@@ -11,8 +11,8 @@
 
 ##### 💻 Front-end | IT Support | Infrastructure 
 ##### 📚 Ciência da Computação  
-##### 🧩 Apaixonado por música e tecnologia  
-##### 🚀 Explorando Front-end, Java e Python  
+##### 🎸 Apaixonado por música e tecnologia  
+##### 🚀 Explorando tecnologias voltadas ao Front-End  
 
   </td>
   <td align="center">
